@@ -24,6 +24,7 @@ Tools that control what actions AI agents are allowed to take.
 - [Authensor](https://github.com/authensor/authensor) - Open-source safety stack with policy engine, approval workflows, content scanning, cryptographic audit trail, and MCP governance. MIT licensed.
 - [AWS Cedar](https://github.com/cedar-policy/cedar) - Policy language for authorization, used in AWS AgentCore. Apache 2.0.
 - [Galileo Agent Control](https://github.com/rungalileo/agent-control) - Centralized policy engine for agent runtime governance. Apache 2.0.
+- [HOL Guard](https://hol.org/guard) - Local policy checks and approvals for supported AI coding-agent shell, file, package, and MCP actions. Apache 2.0.
 - [Permit.io](https://www.permit.io/) - Fine-grained authorization for AI agents with ReBAC and ABAC support (commercial).
 - [AgenticContract](https://github.com/agenticcontract/agenticcontract) - Enforceable rules, risk limits, and obligation tracking for agents. Rust core.
 - [OPA (Open Policy Agent)](https://github.com/open-policy-agent/opa) - General-purpose policy engine, increasingly used for agent authorization. Apache 2.0.
